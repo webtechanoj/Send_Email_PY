@@ -1,6 +1,6 @@
 """
 This program is designed to work for Office 365 hosted emails
-Requirements -
+REQUIREMENTS -
 1. Contacts.txt on the same directory containing Name and Email
 2. Message.txt with the message you want to send across
 
